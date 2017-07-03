@@ -1,32 +1,9 @@
-
-
 body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-  }
-
-.main {
-    flex: 1 0 auto;
-  }
-     
-
-
-.header {
-    background: #9068be;
-
-    
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
-.footer {
- 
-  background-color:#9068be;
-}
-.main-color {
-    background: #62bcfa
-;
-}
-.add-color{
-    background: #e62739;
-
+.content {
+  flex: 1;
 }
